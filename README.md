@@ -101,6 +101,7 @@
 - [交大資工系學會](https://www.facebook.com/nctucs.assoc/)
 - [交大資工粉絲團](https://www.facebook.com/csnctu/)
 - [nctucs.net DNS](https://www.nctucs.net/)
+- [噴火獸號：裴列恩之艦](https://nyllep.wordpress.com/category/%e5%ad%b8%e6%a0%a1/%e4%ba%a4%e5%a4%a7/)
 
 #### 課程心得
 
